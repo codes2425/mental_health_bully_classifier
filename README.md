@@ -9,8 +9,7 @@ The entire methodology, from data preprocessing to model training and evaluation
 To run the notebook, first clone the repository and install the required dependencies.
 
 ```bash
-# Clone the repository
-git clone [https://github.com/ojayedwards01/multi_mental_classifier.git](https://github.com/ojayedwards01/multi_mental_classifier.git)
+# Clone the repository then
 cd multi_mental_classifier
 
 # Install dependencies
